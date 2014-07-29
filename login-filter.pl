@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 use strict;
-#use Tie::STDERR 'admin@tech.activeresponsegroup.com','SSH WATCH';
 use POSIX;
 
 my $log = "/var/log/secure";
